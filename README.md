@@ -12,7 +12,7 @@
 </ul>
 
 ## Working Demo
-You can see the demo of the project <a href="http://justlaravel.com/demos/datetime-format-laravel/">here</a>
+You can see the demo of the project <a href="http://demos.justlaravel.com/datetime-format-laravel/">here</a>
 
 ## Reference Post
 <a href="http://justlaravel.com/datetime-format-laravel/">http://justlaravel.com/datetime-format-laravel/
